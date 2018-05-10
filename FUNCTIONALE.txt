@@ -1,0 +1,32 @@
+CERINTE FUNCTIONALE
+
+DONATOR
+1.Autentificare Donatori
+	●	Donatorii se pot inregistra prin completarea unui formular ce contine campuri precum Nume,Prenume,Data nasterii(zz/ll/aa),Domiciliu,Localitate,Resedinta,Localitate,Date de contact(E-mail,Telefon)
+	●	Un donator inregistrat va avea posibilitatea :
+		○	de a vizuliza rezultatele analizelor de la ultima donare, cat si de la donarile anterioare, care este urmatoarea data la care poate dona. 
+		○	De asemenea, la fiecare donare va putea completa formularul cu informatiile necesare pentru donare (informatiile sunt descrie la punctul 1, unde se specifica problema). In cazul in care doneaza pentru o anumita persoana, donatorul va completa informatia in formularul de donare.
+
+
+PERSONAL CENTRUL DE TRANSFUZII
+2.Managementul donatorilor
+	●	Efectueaza prelevarea probelor de sange in vederea efecutarii unor analize(Sangele se testeaza pentru boli precum :SIDA,HIV,TBC,sifilis, malarie,epilepsie,hepatita,diabet zaharat,cancer,ulcer etc).
+	●	Completeaza datele din timpul procesului de donare, precum si informatiile de pe parcursul traseului pungii de sange.
+	●	Anunta donatorii atunci cand e nevoie de un anume tip de sange si softul ii ajuta sa decida donatorii care sunt cei mai apropiati geografic, compatibili din punct de vedere al grupei de sange si de asemenea intervalul de la ultima donare, le permite sa doneze.
+	●	Actualizeaza stocul de sange.(In cazul unor evenimente de tipul:pacientul moare,pacientul nu mai are nevoie de sange, punga de sange se reintoarce la centrul de la care a venit si poate fi refolosita).
+	●	Personalul de la centru are posibilitatea de a vizualiza cererile initiate de catre medici ordonate dupa gradul de prioritate(mic, mediu, mare).
+	●	Dupa vizualizarea cererilor, centrul de tranfuzie ia o decizie bazata compatibiliatea sangelui ,factorul decisiv fiind gradul de urgenta a pacientului.
+	
+MEDIC
+3.Initiere cerere
+	●	Medicul completeaza o cerere pentru sangele necesar in spitalul de care apartin,cerere in care specifica pentru cine este nevoie de sange,grupa de sange si Rh-ul pacientului,gradul de urgenta(ridicat,mediu,scazut) impreuna cu locatia pacientului.
+	●	Odata initiata o cerere medicul vede statusul cererii inintate si daca pentru un pacient au donat sau nu suficiente persoane.
+	●	Medicul poate actulaiza/anula o cerere in cazul in care pacientul moare sau nu mai are nevoie de sange.
+
+ADMINISTRATOR
+4.Managementul Spitalelor,Centrelor de Transfuzii si a Donatorilor
+	●	Adauga/Sterge/Actualizeaza un medic
+	●	Adauga/Sterge/Actualizeaza un spital
+	●	Adauga/Sterge/Actualizeaza un donator 
+	●	Adauga/Sterge/Actualizeaza un Centru de Transfuzie
+
